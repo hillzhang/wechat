@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;wechat&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../nasDec" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../mycrm" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../nas_monitor" />
+      <root url="file://$PROJECT_DIR$/../toolbox" />
+      <root url="file://$PROJECT_DIR$/../cardServer" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../gotest" />
+      <root url="file://$PROJECT_DIR$/../gServer" />
+      <root url="file://$PROJECT_DIR$/../nfsDecoder" />
+      <root url="file://$PROJECT_DIR$/../switch" />
+      <root url="file://$PROJECT_DIR$/../sys_monitor" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../nasDec" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../mycrm" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../nas_monitor" />
+      <root url="file://$PROJECT_DIR$/../toolbox" />
+      <root url="file://$PROJECT_DIR$/../cardServer" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../gotest" />
+      <root url="file://$PROJECT_DIR$/../gServer" />
+      <root url="file://$PROJECT_DIR$/../nfsDecoder" />
+      <root url="file://$PROJECT_DIR$/../switch" />
+      <root url="file://$PROJECT_DIR$/../sys_monitor" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
